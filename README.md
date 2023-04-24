@@ -1,2 +1,2 @@
 # Automap
-A vihecle services scan and detection toolkit
+A vehicle services scan and detection toolkit
